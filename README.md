@@ -11,16 +11,16 @@ To run the Python scripts in this project, ensure you have the following install
 ## Setup Instructions
 Q1 - 
    1. Clone the Repository:
-       ```bash
-       git clone https://github.com/Deepak-Dhaka-2002/ML-Assessment.git
-       cd ML-Assessment
+      
+     git clone https://github.com/Deepak-Dhaka-2002/ML-Assessment.git
+     cd ML-Assessment
    2. Create a Virtual Environment (optional but recommended):
-       ```bash
-       python -m venv venv
+   
+     python -m venv venv
        source venv/bin/activate  # On Windows: venv\Scripts\activate
    3. Install req libary(No need to run this here):
-      ```bash
-       pip install -r requirements.txt
+
+     pip install -r requirements.txt
    4. Run the script -
 
      python password_strength.py
