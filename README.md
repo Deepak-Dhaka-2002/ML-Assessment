@@ -12,7 +12,7 @@ To run the Python scripts in this project, ensure you have the following install
 Q1 - 
    1. Clone the Repository:
        ```bash
-       git clone https://github.com/yourusername/repository-name.git
+       git clone https://github.com/Deepak-Dhaka-2002/ML-Assessment/tree/main.git
        cd repository-name
    2. Create a Virtual Environment (optional but recommended):
        python -m venv venv
