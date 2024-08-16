@@ -24,7 +24,7 @@ def evaluate_password_strength(password):
 
     return score
 
-# Example usage:
-password = "P@ssw0rd123!"
-strength = evaluate_password_strength(password)
-print(f"Password strength: {strength}/10")
+if __name__ == "__main__":
+    password = input("Enter a password to evaluate its strength: ")
+    strength = evaluate_password_strength(password)
+    print(f"Password strength: {strength}/10")
