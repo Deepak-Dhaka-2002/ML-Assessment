@@ -22,10 +22,12 @@ Q1 -
       ```bash
        pip install -r requirements.txt
    4. Run the script -
-      ```bash
-        python password_strength.py
 
-Q2 - python prime_factorization.py
+     python password_strength.py
+
+Q2 - Run second que script - 
+
+       python prime_factorization.py
 
 Q3 - The SQL query to retrieve posts made by friends can be found in the retrieve_posts.sql file. You can run this query in your SQL database environment.
 
