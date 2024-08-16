@@ -15,14 +15,18 @@ Q1 -
        git clone https://github.com/Deepak-Dhaka-2002/ML-Assessment/tree/main.git
        cd ML-Assessment
    2. Create a Virtual Environment (optional but recommended):
+       ```bash
        python -m venv venv
        source venv/bin/activate  # On Windows: venv\Scripts\activate
    3. Install req libary:
+      ```bash
        pip install -r requirements.txt
    4. Run the script -
+      ```bash
         python password_strength.py
 
 Q2 - python prime_factorization.py
+
 Q3 - The SQL query to retrieve posts made by friends can be found in the retrieve_posts.sql file. You can run this query in your SQL database environment.
 
      SELECT p.*
