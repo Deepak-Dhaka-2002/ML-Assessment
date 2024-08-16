@@ -18,7 +18,7 @@ Q1 -
        ```bash
        python -m venv venv
        source venv/bin/activate  # On Windows: venv\Scripts\activate
-   3. Install req libary:
+   3. Install req libary(No need to run this here):
       ```bash
        pip install -r requirements.txt
    4. Run the script -
