@@ -13,7 +13,7 @@ def prime_factors(n):
         factors.append((n, 1))
     return factors
 
-# Example usage:
-number = 60
-factors = prime_factors(number)
-print(f"Prime factors of {number}: {factors}")
+if __name__ == "__main__":
+    number = int(input("Enter an integer to perform prime factorization: "))
+    factors = prime_factors(number)
+    print(f"Prime factors of {number}: {factors}")
